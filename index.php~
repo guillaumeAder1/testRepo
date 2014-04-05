@@ -17,7 +17,5 @@ $toto = "34";
 print_r($test);
 
 print_r($test2);
-// seconde changement
-// 2
 
 ?>

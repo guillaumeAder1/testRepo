@@ -7,6 +7,6 @@ $test = array(
 		'C' => '3'
 			
 );
-$texte = "ma variable texte";
+$texte = "ma variable texte = chiffre";
 
 ?>
