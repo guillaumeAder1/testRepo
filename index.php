@@ -13,6 +13,7 @@ $test2 = array(
 		'3333333'
 
 );
+$toto = "34";
 print_r($test);
 
 print_r($test2);
